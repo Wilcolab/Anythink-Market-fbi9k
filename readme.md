@@ -11,3 +11,5 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 ## First setup
 
 run all scripts in the next quests on one of the containers created by `docker-compose up`.  Also, you can use `docker exec` to run commands
+
+then do..
